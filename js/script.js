@@ -15,7 +15,7 @@ function init() {
   info.style.top = '50px';
   info.style.width = '100%';
   info.style.textAlign = 'center';
-  info.innerHTML = '<p>Ｓｏｎｉｃ Ｄｉｇｉｔａｌ Ｌａｂｓ</p>email: info@SDL.meme';
+  info.innerHTML = '<h3>Sonic Digital Labs</h3>email: info@SDL.meme';
   container.appendChild(info);
   camera = new THREE.PerspectiveCamera(50, width / height, 1, 1000);
   camera.position.y = 150;
