@@ -1,6 +1,7 @@
 @font-face { 
-  font-family: "Segan"; src: url(/media/Segan-Light.ttf); 
+  font-family: "Segan"; src: url('/media/Segan-Light.ttf');
 }
+
 body {
   font-family: "Segan";
   background-color: #f0f0f0;
